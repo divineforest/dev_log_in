@@ -1,0 +1,14 @@
+h1. Usage
+
+http://myproject.local/dev/log_in/john to log in as john (if User with email "john@****.**" exists in DB)
+
+/dev/log_in/ivan for "ivan@****.**" or
+/dev/log_in/admin for "admin@****.**" or
+
+h1. Why?
+
+Helps you to log in and easily switch between multiple users in development env.
+
+
+Copyright (c) 2011 divineforest, evrone
+This project rocks and uses MIT-LICENSE.
