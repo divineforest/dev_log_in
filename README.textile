@@ -10,5 +10,9 @@ h1. Why?
 Helps you to log in and easily switch between multiple users in development env.
 
 
+h1. Installation
+
+gem 'dev_log_in'
+
 Copyright (c) 2011 divineforest, evrone
 This project rocks and uses MIT-LICENSE.
