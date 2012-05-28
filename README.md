@@ -16,9 +16,9 @@ or
 
 Just add to your Gemfile:
 
-```
+```ruby
 gem 'dev_log_in'
 ```
 
-Copyright © 2011 divineforest, evrone.com
+Copyright © 2012 divineforest, evrone.com
 This project rocks and uses MIT-LICENSE.
