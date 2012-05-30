@@ -1,6 +1,6 @@
 # Dev Log in
 
-Rails gem that helps you to log in and easily switch between multiple users in development env.
+Rails gem that helps you to log in and easily switch between multiple users in development env (without configuration).
 
 # Usage
 Go to http://myproject.local/dev/log_in/john to log in as john (if a user with email "john@*.*" exists in DB)
@@ -19,6 +19,10 @@ Just add to your Gemfile:
 ```ruby
 gem 'dev_log_in'
 ```
+
+# Configuration
+
+Not needed!
 
 Copyright © 2012 divineforest, evrone.com
 This project rocks and uses MIT-LICENSE.
