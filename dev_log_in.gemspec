@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.summary     = "Type /dev/log_in/john in browser to log in as john (in env.development?)"
   s.description = "Log in by typing myproject.local/dev/log_in/john or myproject.local/dev/log_in/admin to easily switch between users in development env"
 
-  s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.textile"]
+  s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
   s.test_files = Dir["test/**/*"]
 
   s.add_dependency "rails", ">= 3.0.0"
