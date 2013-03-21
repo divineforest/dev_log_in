@@ -12,6 +12,10 @@ or
 /dev/log_in/admin for "admin@*.*"
 ```
 
+
+Go to http://myproject.local/dev/log_in/john/admin to log in, if your
+model has a different from User name
+
 # Installation
 
 Just add to your Gemfile:
