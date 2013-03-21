@@ -1,4 +1,4 @@
-class DevLogInController < ApplicationController
+class DevLogInController < ActionController::Base
 
   def log_in
     if Rails.env.development? || Rails.env.test?
