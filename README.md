@@ -10,6 +10,7 @@ or
 ```
 /dev/log_in/ivan for "ivan@*.*"
 /dev/log_in/admin for "admin@*.*"
+/dev/log_in/1 for User(id=1)
 ```
 
 
